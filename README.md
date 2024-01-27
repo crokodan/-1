@@ -1,5 +1,5 @@
 # Daniil 1
 C#
 ## Daniil 2
-! **Всем привет** 
-! (https://w.forfun.com/fetch/73/7394fac150eb3e69077fed86df2b1f03.jpeg)
+**Всем привет** 
+| ЛЕВО | ЦЕНТР | ПРАВО |
